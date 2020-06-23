@@ -22,7 +22,7 @@
 			?>
 				<script>
 					alert("Login success");
-					location.assign("success.php");
+					location.assign("viewproduct.html");
 				</script>
 			<?php
 		} 
