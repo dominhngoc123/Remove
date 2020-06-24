@@ -290,7 +290,7 @@ input[type=text]:placeholder {
     <!-- Login Form -->
     <form action="checkLogin.php" method="POST">
       <input type="text" id="login" name="txtUsername" class="fadeIn second" name="login" placeholder="Enter username..." autocomplete="off">
-      <input type="text" id="password" name="txtPassword" class="fadeIn third" name="login" placeholder="Enter password..." autocomplete="off">
+      <input type="password" id="password" name="txtPassword" class="fadeIn third" name="login" placeholder="Enter password..." autocomplete="off">
       <input type="submit" class="fadeIn fourth" value="Log In">
     </form>
 
